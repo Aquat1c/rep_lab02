@@ -1,0 +1,2 @@
+C:\Users\Aquatic\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe
+C:\Users\Aquatic\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.pdb
